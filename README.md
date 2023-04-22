@@ -1,2 +1,2 @@
-# fabulousMerchStore_MERN
-MERN project for fabulous MERCH store
+
+MERN project for Ecommerce website
